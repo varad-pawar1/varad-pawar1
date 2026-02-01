@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varad Vitthal Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <img align="right" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="coding img" />
 
@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://varadpawarportfolio.netlify.app/](https://varadpawarportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript , React , Python**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Angular, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **varadpawarm@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
